@@ -1,0 +1,16 @@
+[
+{
+  "modid": "custommod",
+  "name": "Custom Mod",
+  "description": "A Custom Mod made for a Private Whitelist Server",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CyanThunderMC"],
+  "credits": "Everyone",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
